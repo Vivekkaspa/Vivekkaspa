@@ -1,9 +1,10 @@
-![logo](https://github.com/Vivekkaspa/Vivekkaspa/blob/main/Vivekpic1.jpg?raw=true) 
+<!-- ![logo](https://github.com/Vivekkaspa/Vivekkaspa/blob/main/Vivekpic1.jpg?raw=true)
 
 <div align="center">
     <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=vivekkaspa&color=orange&label=Profile+Views" />
     <img alt="LinkedIn" src="https://img.shields.io/badge/-vivek-blue?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/vivek-kaspa-380b19239")]/(https://www.linkedin.com/in/vivek-kaspa-380b19239" >
 </div>
+-->
 
 ## Hello there👋
 
@@ -80,11 +81,11 @@ I am Vivek kaspa. I am a Computer Science student and I love learning and buildi
 
 <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=vivekkaspa&color=brightgreen&label=Profile+Views" />
 
-
+<!--
 <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekkaspa&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&border_color=cfcfcf" alt="vivekkaspa" /></div>
 
 <div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivekkaspa&show_icons=true&locale=en&theme=chartreuse-dark&border_color=cfcfcf" alt="vivekkaspa" /></div>
-
+-->
 <!--<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekkaspa&theme=chartreuse-dark&border_color=cfcfcf" alt="vivekkaspa" /></div>>
 
 
