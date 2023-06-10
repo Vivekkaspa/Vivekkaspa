@@ -1,4 +1,4 @@
-![logo](https://github.com/Vivekkaspa/Vivekkaspa/blob/main/Vivekpic.png.jpg?raw=true) 
+![logo](https://github.com/Vivekkaspa/Vivekkaspa/blob/main/Vivekpic1.jpg?raw=true) 
 
 <div align="center">
     <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=vivekkaspa&color=orange&label=Profile+Views" />
