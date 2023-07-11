@@ -9,7 +9,7 @@
 ## Hello there👋
 
 
-I am Vivek kaspa. I am a Computer Science student and I love learning and building with new emerging technologies.
+I am Vivek kaspa. I am a Computer Science student and I love learning and building with new emerging technologies. I am also very fond of Competitive progarmming.
 
 <img align="right" width="350" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
