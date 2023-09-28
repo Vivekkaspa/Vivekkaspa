@@ -83,6 +83,7 @@ I am Vivek kaspa. I am a Computer Science student and I love learning and buildi
 
 <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=vivekkaspa&color=brightgreen&label=Profile+Views" />
 
+[![An image of @vivekkaspa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vivekkaspa)](https://holopin.io/@vivekkaspa)
 <!--
 <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekkaspa&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&border_color=cfcfcf" alt="vivekkaspa" /></div>
 
