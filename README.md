@@ -15,9 +15,9 @@ I am Vivek kaspa. I am a Computer Science student and I love learning and buildi
 
  - 🔭 I’m currently exploring Machine learning and Web technologies.
  - 🌱  I’m learning and practising Data structures and Algorithms.
- - 🤝  I’m fond of Generative-AI and Prompt Engineering,Web and mobile application designing, Machine learning,Data Analytics,etc.
- - 🤝  I'm also like having fun with Competitive programming.
- - 🤝  I like Cognitive Analytics,Complex problem solving and Critical thinking.
+ - 🤝  I’m fond of Generative-AI and Prompt Engineering,Web and mobile application designing, Machine learning,Data Analytics,and many other fascinating technologies.
+ - 🤝  I'm a hobbyist coder and like having fun with Competitive programming.
+ - 🤝  I like the problems or situations involving Cognitive Analytics,Complex problem solving and Critical thinking.
  - 📫  Reach me by: [kaspavivek21@gmail.com](mailto:kaspavivek21@gmail.com)
  - ⚡  Fun fact: I have a penchant for detective work,often channeling my inner Sherlock Holmes when tackling complex problems and deciphering tricky riddles for investigation.
 
