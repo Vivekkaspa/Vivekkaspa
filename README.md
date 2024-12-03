@@ -18,9 +18,8 @@ I am a Computer Science student and I love learning and building with new emergi
 <img align="right" width="350" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
  - 🔭 I’m currently exploring Machine learning and Web technologies.
- - 🌱  I’m learning and practising Data structures and Algorithms.
+ - 🌱  I'm a hobbyist coder and I love Problem Solving & Competitive programming.
  - 🤝  I’m fond of Generative-AI and Prompt Engineering,Web and mobile application designing, Machine learning,Data Analytics,and many other fascinating technologies.
- - 🤝  I'm a hobbyist coder and like having fun with Competitive programming.
  - 🤝  I like the problems or situations involving Cognitive Analytics,Complex problem solving and Critical thinking.
  - 📫  Reach me by: [kaspavivek21@gmail.com](mailto:kaspavivek21@gmail.com)
  - ⚡  Fun fact: I have a penchant for detective work,often channeling my inner Sherlock Holmes when tackling complex problems and deciphering tricky riddles for investigation.
