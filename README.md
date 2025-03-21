@@ -80,7 +80,7 @@ I am a Computer Science student and I love learning and building with new emergi
 <p align="left">
     <a href="https://www.linkedin.com/in/vivek-kaspa-380b19239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivekkaspa" height="30" width="40" /></a>
     <a href="mailto:kaspavivek21@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/95289188/183304380-42ea1bad-4cd0-479f-87a2-35e1321d3927.svg" height="35" width="40" /></a>
-    <a href="https://instagram.com/vivekkaspa6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mano.08" height="30" width="40" /></a>
+    <!--<a href="https://instagram.com/vivekkaspa6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mano.08" height="30" width="40" /></a>-->
     <a href="https://discord.gg/Vivek kaspa(he/him)#5840" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="32" width="40" /></a>
 </p>
 
